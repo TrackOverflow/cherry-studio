@@ -73,6 +73,7 @@
     "@libsql/client": "0.14.0",
     "@napi-rs/system-ocr": "1.0.2",
     "@paymoapp/electron-shutdown-handler": "1.1.2",
+    "@rolldown/binding-darwin-arm64": "1.0.0-beta.53",
     "express": "5.1.0",
     "font-list": "2.0.0",
     "graceful-fs": "4.2.11",
